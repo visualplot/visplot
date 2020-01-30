@@ -8,11 +8,10 @@ requirements = ['ipython>=6']
 setup(
     name = 'visplot',
     version = '0.0.1',
-    author = 'upadhyayans',
-    author_email = 'Upadhyay Ansh',
+    author = 'Upadhyay Ansh',
+    author_email = 'anshumnupadhyay1@gmail.com',
     description = 'A package for the visualization',
     long_description=readme,
-    long_description_content_type = 'type/markdown',
     url='https://github.com/visplot/upadhyayns/',
     packages=find_packages(),
     install_requires = requirements,
@@ -20,5 +19,4 @@ setup(
         "Programming Language :: Python :: 3.7",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
-)
 )
